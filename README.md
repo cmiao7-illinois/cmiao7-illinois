@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Brennan Brown! :stars:</h1>
+<h1 align="center">Hi, I'm Chenglin Miao! :stars:</h1>
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/brennankbrown)](https://twitter.com/brennankbrown)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brennankbrown/)](https://linkedin.com/in/brennankbrown/)
@@ -59,5 +59,3 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 ![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000000?style=flat-square&logo=gnu-bash&logoColor=ffffff)
 
 <hr/>
-
-:star: From [@BrennanBrown](https://github.com/brennanbrown)
