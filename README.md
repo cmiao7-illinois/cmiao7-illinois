@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Chenglin Miao! :stars:</h1>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chenglin-miao-569584222/)](https://www.linkedin.com/in/chenglin-miao-569584222/)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@brennanbrown)](https://medium.com/@brennanbrown)
 [![Website](https://img.shields.io/badge/-Blog-21759B?style=flat&logo=WordPress&logoColor=white&link=https://cmiao7.notion.site/Chenglin-Colin-Miao-9b74a58bac2a480abf9514defeb18afd)](https://cmiao7.notion.site/Chenglin-Colin-Miao-9b74a58bac2a480abf9514defeb18afd)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cmiao7@illinois.edu)](mailto:cmiao7@illinois.edu)
 ![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-brightgreen?style=flat)
