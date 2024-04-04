@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Chenglin Miao! :stars:</h1>
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/brennankbrown)](https://twitter.com/brennankbrown)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chenglin-miao-569584222/)](https://www.linkedin.com/in/chenglin-miao-569584222/)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@brennanbrown)](https://medium.com/@brennanbrown)
 [![WordPress Blog](https://img.shields.io/badge/-Blog-21759B?style=flat&logo=WordPress&logoColor=white&link=https://wandernotebook.com)](https://wandernotebook.com)
@@ -13,11 +12,7 @@
 
 ## About Me :wave:
 
-Hey there! :smile: My name is Brennan. I'm a 24-year-old Métis web developer and blogger from Winnipeg, Manitoba and currently reside in Calgary, Alberta. I just finished a Full Stack Developer Program at [EvolveU](https://www.evolveu.ca/), and I'm looking for open-source projects to contribute to and people to collaborate with! I love creating and tinkering with small, static websites using frameworks like Jekyll or Hugo. I'm a big proponent of putting an emphasis on accessibility and the [A11y project](https://www.a11yproject.com/) in web development.
-
-I'm always looking to work with people that are hopeless idealists like me, as well as who are interested in creating and working on cool, interesting, and meaningful projects! Shoot me [an e-mail](mailto:mail@brennanbrown.ca) if that sounds like your cup of tea. :coffee:
-
-<!-- More info on badges below: https://github.com/badges/shields/blob/master/doc/logos.md -->
+Hello, my name is Chenglin Miao. I obtained Bachelor's degree of Data science and Big Data from Tongji University, Shanghai and is pursuing Master's degree of Computer Engineering in University of Illinois Urbana-Champaign, graduating in December, 2024 as scheduled. I completed a six-month internship in a quantitative company in Shanghai. As part of my role, I maintained the trading system which suggests I have experience with software development and the ability to handle complex systems.  I plan to seek a job in software development or quant development after graduation, aligned with my skills and experience. My experience working in a team environment and problem-solving skills are valuable for future job opportunities. I love fitness and Texas Poker in free time.Additionally, I have a strong academic background in Electrical & Computer Engineering with a focus on Data Science & Big Data Technology. My coursework at the University of Illinois Urbana-Champaign and Tongji University provided me with a solid foundation in key areas such as Communication Networks, Distributed Systems, Database Systems, and Applied Parallel Programming. I also have experience working with technologies such as Redis and Kafka which are widely used in the industry.
 
 ## Technologies I'm Learning :books:
 
